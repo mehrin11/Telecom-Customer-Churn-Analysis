@@ -1,13 +1,20 @@
-[README.md](https://github.com/user-attachments/files/27853667/README.md)
-📊 Telecom Customer Churn Analysis
+[README.md](https://github.com/user-attachments/files/27853832/README.md)
+# 📊 Telecom Customer Churn Analysis
+
 A data analysis project exploring why customers leave a telecom company, using the Telco Customer Churn dataset from Kaggle.
+
 ## 🔍 Problem
+
 Why do customers leave a telecom company? Can we find patterns that help the business retain them?
+
 ## 📁 Dataset
+
 - **Source:** [Kaggle – Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - **Size:** 7,043 customers, 21 features
 - **Key columns:** `tenure`, `Contract`, `MonthlyCharges`, `TotalCharges`, `Churn`
+
 ## 🗂️ Project Structure
+
 telco-churn-analysis/
 ├── data/                  ← Place the CSV file here
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
@@ -19,15 +26,19 @@ telco-churn-analysis/
 │   ├── tenure_vs_churn.png            ← churn proportion by tenure band
 │   └── churn_by_internet_service.png  ← % churn by internet service type
 └── README.md
+
 ## ⚙️ Setup & How to Run
+
 ### Requirements
 - Python 3.8+ (via [Anaconda](https://anaconda.com))
 - Libraries: `pandas`, `matplotlib`, `seaborn` (all included with Anaconda)
+
 ### Steps
 1. Download the dataset from Kaggle and place it in the `data/` folder
 2. Open Anaconda Navigator → launch Jupyter Notebook
 3. Navigate to `notebooks/churn_analysis.ipynb`
 4. Run all cells top to bottom (`Kernel → Restart & Run All`)
+
 ## 📊 Key Findings
 
 | # | Finding | Detail |
@@ -56,3 +67,5 @@ telco-churn-analysis/
 ## 📈 Dashboard
 
 > 🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/P3_17789301874540/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+
