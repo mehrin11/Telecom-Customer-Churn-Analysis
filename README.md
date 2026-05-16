@@ -56,6 +56,3 @@ telco-churn-analysis/
 ## 📈 Dashboard
 
 > 🔗 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/P3_17789301874540/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-
-*Your Name Here*  
-[LinkedIn](#) · [GitHub](#)
